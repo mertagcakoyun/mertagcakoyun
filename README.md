@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hello World 👋
+-![](https://media2.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e477pz6kfv9oht3660emzs3nfv2cu44xvamhqdh4yy8&rid=giphy.gif)
 
+ **I'm Mert Agcakoyun, a senior grade computer engineering student in Istanbul.**
+- 🔭 I’m currently working on Web Development with ASP.NET Core. 
+- 🌱 I'm currently learning Web Services, Face Recognition and ML Technologies
+- 📫 How to reach me: mertagcakoyun@gmail.com 
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mertagcakoyun&show_icons=true&theme=dark)[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mertagcakoyun&show_icons=true&theme=dark&layout=compact)](https://github.com/mertagcakoyun) 
+
+[![GitHub Follow Badge](https://img.shields.io/github/followers/mertagcakoyun?label=follow&style=social)](https://github.com/mertagcakoyun)  **/**  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertagcakoyun/)](https://www.linkedin.com/in/mertagcakoyun/)
 <!--
 **mertagcakoyun/mertagcakoyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
