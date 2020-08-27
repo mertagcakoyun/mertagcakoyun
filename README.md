@@ -4,7 +4,7 @@
  **I'm Mert Agcakoyun, a senior grade computer engineering student in Istanbul.**
 - 🔭 I’m currently working on Web Development with ASP.NET Core. 
 - 🌱 I'm currently learning Web Services, Face Recognition and ML Technologies
-- 📫 How to reach me: mertagcakoyun@gmail.com 
+- 📫 How to reach me: mert.agcakoyun@gmail.com 
 
 
 
