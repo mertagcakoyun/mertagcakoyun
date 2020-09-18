@@ -9,8 +9,10 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mertagcakoyun&show_icons=true&theme=dark)[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mertagcakoyun&show_icons=true&theme=dark&layout=compact)](https://github.com/mertagcakoyun) 
-
-[![GitHub Follow Badge](https://img.shields.io/github/followers/mertagcakoyun?label=follow&style=social)](https://github.com/mertagcakoyun)  **/**  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertagcakoyun/)](https://www.linkedin.com/in/mertagcakoyun/) <p align="center"> <img src="https://komarev.com/ghpvc/?username=mertagcakoyun&color=brightgreen" alt="mertagcakoyun" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mertagcakoyun?label=follow&style=social"></img>  /  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertagcakoyun"></img> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=mertagcakoyun&color=brightgreen" alt="mertagcakoyun" /> </p>
+ 
 <!--
 **mertagcakoyun/mertagcakoyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
