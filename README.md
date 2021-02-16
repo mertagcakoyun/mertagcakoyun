@@ -21,7 +21,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="50" height="40"></img>
 
-[![GitHub Follow Badge](https://img.shields.io/github/followers/mertagcakoyun?label=follow&style=social)](https://github.com/mertagcakoyun)  **/**  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertagcakoyun/?locale=en_US)](https://www.linkedin.com/in/mertagcakoyun/?locale=en_US)
+<p align="center"> 
+<a href="https://twitter.com/mertagcakoyun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mertagcakoyun" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/mertagcakoyun/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mertagcakoyun" height="30" width="30" /></a>
+<a href="https://medium.com/@mertagcakoyun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="mertagcakoyun" height="30" width="30" /></a>
+</p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=mertagcakoyun&color=brightgreen" alt="mertagcakoyun" /> </p>
  
 
