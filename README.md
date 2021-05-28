@@ -1,15 +1,16 @@
 ### Hello World 👋
 -![](https://media2.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e477pz6kfv9oht3660emzs3nfv2cu44xvamhqdh4yy8&rid=giphy.gif)
 
- **I'm Mert Agcakoyun, a senior grade computer engineering student in Istanbul.**
+ **I'm Mert Agcakoyun, a junior software engineer in Istanbul.**
 - 🔭 I’m currently working on Web Development with ASP.NET Core. 
-- 🌱 I'm currently learning Node.JS, Spring, AWS and Cloud Computing 
+- 🌱 I'm currently learning Spring Boot, Go and Cloud Computing 
 - 📫 How to reach me: mert.agcakoyun@gmail.com 
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mertagcakoyun&show_icons=true&theme=dark)[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mertagcakoyun&show_icons=true&theme=dark&layout=compact)](https://github.com/mertagcakoyun) 
 
 <img src="https://raw.githubusercontent.com/get-icon/geticon/3d586ebac68a43c8358d030ee96c9e07afeff489/logos/java.svg" width="40" height="40"></img>
+<img src="https://2.bp.blogspot.com/-4FdDAKjbAvU/Vpvr1Rl9YfI/AAAAAAAABk0/U-VeLoHK7uo/s1600/photo.jpg" width="40" height="40"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="40" height="40"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40"></img>
 <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="40" height="40"></img>
